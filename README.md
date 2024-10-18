@@ -1,10 +1,15 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Booch
 =============================================================================================================================
 
-Dev
+Transitioning to a career as a developer is an important and exciting decision for me. From the beginning of my studies or previous job, I have always felt a strong interest in technology and the creative process of building new things. Seeing the development of applications and websites that solve everyday problems sparked my curiosity and motivated me to dive deeper into this field.
+
+Learning programming languages and new tools has ignited a passion within me to create valuable and meaningful solutions for users. As I began my journey in development, I discovered that coding is not just about working with technology; it’s also about analytical thinking, problem-solving, and collaborating with others.
+
+This transition hasn’t always been easy, but with perseverance and support from the developer community, I am confident that I can learn and grow in this profession. In the future, I hope to create projects that have a positive impact on society and collaborate with fellow developers to build better solutions.
+
 --------
 
-I'm transferring to be a developer.
+This is an exciting time in my life, and I am looking forward to fully embracing the world of development!
 
 *   🌍  I'm based in Rayong, Thailand
 *   ✉️  You can contact me at [boochveerapat@gmail.com](mailto:boochveerapat@gmail.com)
